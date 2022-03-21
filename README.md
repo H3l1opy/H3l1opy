@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @H3l1opy
-- 👀 I’m interested in ... Tirar minhas duvidas do meu cusso de phyton
-- 🌱 I’m currently learning ... Phyton
-- 💞️ I’m looking to collaborate on ...
+- 👋 oi, eu sou @H3l1opy
+- 👀 estou enteresado em ... Tirar minhas duvidas do meu cusso de phyton
+- 🌱 atualmente estou aprendeno ... Phyton
 - 📫 How to reach me ... wanderalveschina@gmail.com
 
 <!---
